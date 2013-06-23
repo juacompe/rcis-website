@@ -1,0 +1,180 @@
+/*global reset*/
+
+html, body, h1,h2,h3,h4,h5,h6,p,blockquote,form,label,ul,ol,dl,fieldset,address  {
+	margin: 0;
+	padding: 0;
+}
+.text14 {
+	font-family: "Microsoft Sans Serif";
+	font-size: 14px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+}
+.text14b {
+	font-family: "Microsoft Sans Serif";
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+}
+a:link {
+	color: #0099FF;
+}
+a:visited {
+	color: #0099FF;
+}
+a:hover {
+	color: #006699;
+}
+a:active {
+	color: #006699;
+}
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+
+.section {
+    width:880px;
+}
+
+.push_up {
+    position: relative;
+    top: -30px;
+}
+
+#middle_section {
+    height: 452px;
+}
+
+#how_old_is_ur_child {
+    width: 658px;
+    float: right;
+    background: white;
+}
+
+#intro {
+    float: left;
+    width: 55%;
+    text-align: left;
+    padding: 5% 13% 0% 5%;
+}
+
+#icons {
+    width: 20%;
+    background: white;
+    text-align: center;
+}
+#icons a {
+    text-decoration: none;
+}
+
+.icon {
+    width: 80px;
+    border: 0px;
+}
+
+#fun_box {
+    width: 40%;
+    margin-top: 150px;
+    z-index: 1;
+    float: left;
+    text-align: left;
+    padding-left: 10%;
+}
+
+#fun_box_bg {
+    width: 100%;
+    position: relative;
+    top: 125px;
+    z-index: -1;
+}
+.pale_green {
+    background: rgb(153,204,1);
+}
+
+.light_green {
+    background: #329832;
+}
+
+.dark_green {
+    background: #006634;
+}
+.style40 {
+	color: white;
+        font-size: 14px;
+}
+.texts14 {
+	font-family: "Microsoft Sans Serif";
+	font-size: 14px;
+	font-weight: normal;
+	font-variant: normal;
+	color: #000000;
+}
+.texts14b {
+	font-family: "Microsoft Sans Serif";
+	font-size: 14px;
+	font-weight: bold;
+	font-variant: normal;
+	color: #000000;
+}
+#index_header {
+    background: url('/media/images/index_header.png') no-repeat;
+    height: 482px;
+    width: 880px;
+}
+#rc_flash {
+    height: 250px;
+    width: 618px;
+    position: relative;
+    top: 171px;
+    left: 228px;
+}
+
+#topmenu {
+   /* background-image:url('/media/RCImages/crossGreen1.gif');*/
+    height: 30px;
+    width: 880px;
+}
+
+.promotion a {
+    text-transform:uppercase;
+    font-size: 18px;
+    position: absolute;
+    top: 2%;
+}
+
+.promotion a:link {
+    color: white;
+}
+
+.promotion a:visited {
+    color: white;
+}
+
+.promotion a:hover {
+    color: yellow;
+}
+span.file{
+    display: block;
+}
+/*
+#topmenu ul li {
+    background: #009900;
+    line-height: 30px;
+    display: inline;
+}
+#topmenu ul li a {
+    color: white;
+    text-transform:uppercase;
+    text-align:justify;
+    text-decoration:none;
+    padding:3px 0.6em;
+    font-family: Verdana;
+    font-size: 12px;
+}
+#topmenu ul li a:hover{
+    background: #69CC01;
+}*/

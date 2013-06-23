@@ -1,0 +1,219 @@
+{% extends "base.html"%}
+{% load cms_tags %}
+
+{% block title %}RC International School{% endblock %}
+{% block banner%}
+
+<div id="index_header">
+    <object id="rc_flash" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000">
+        <param value="{{ MEDIA_URL }}Flash/RC_flash.swf" name="movie">
+        <param value="high" name="quality">
+        <embed width="620" height="250" src="{{ MEDIA_URL }}Flash/RC_flash.swf" quality="high" loop="true" autostart="true" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"/>
+    </object>
+</div>
+
+{% endblock %}
+{% block main-content%}
+<!-- begin middle section -->
+<div id="middle_section" class="section pale_green">
+    <div id="how_old_is_ur_child">
+    <p id="intro">
+
+    {% block promotion %}<span class='promotion'>{% placeholder promotion%}</span>{% endblock %}
+    <img src="{{ MEDIA_URL }}RCImages/RC.gif" style="float:right;" >
+    <br>
+    <span class="style2">{% placeholder RC_international_school_block%}</span></p>
+    <img src="{{ MEDIA_URL }}images/toy_11.jpg"/>
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"    border="0"  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="658" height="299">
+      <param name="movie" value="{{ MEDIA_URL}}Flash/RC_Bottonflash.swf" />
+      <param name="quality" value="high"  />
+      <embed src="{{ MEDIA_URL}}Flash/RC_Bottonflash.swf" width="658" height="299" autostart="true" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"  autostart="true"  loop="true"/>
+    </object>
+    </div>
+    <div id="icons" style="height:80%">
+      <a href="http://twitter.com/rc_inter"><img class="icon" src="{{ MEDIA_URL }}images/mts-twitter-buttons-06.png"/></a>
+      <a href="/school_calendar/"><img class="icon" src="{{ MEDIA_URL }}images/google_calendar_icon.png"/></a>
+<!-- Facebook Badge START -->
+<a href="http://www.facebook.com/pages/RC-International-School/108201269228301" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="RC International School">RC International School</a><br/><a href="http://www.facebook.com/pages/RC-International-School/108201269228301" target="_TOP" title="RC International School"><img src="http://badge.facebook.com/badge/108201269228301.694.381963163.png" width="120" height="231" style="border: 0px;" /></a><br/><a href="http://www.facebook.com/business/dashboard/" target="_TOP" style="font-family: &quot;lucida grande&quot;,tahoma,verdana,arial,sans-serif; font-size: 11px; font-variant: normal; font-style: normal; font-weight: normal; color: #3B5998; text-decoration: none;" title="Make your own badge!">Promote Your Page Too</a>
+<!-- Facebook Badge END -->
+    </div>
+    <div class="pale_green" style="height:20%;"></div>
+    <div class="dark_green" style="height:60px;">
+    <img src="{{ MEDIA_URL }}RCImages/RC_menu_04.jpg" style="float:right;"/>
+    </div>
+</div>
+<!-- end middle section -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="629" align="left" valign="top"><table width="629" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="left" valign="top" ><img src="{{ MEDIA_URL }}RCImages/location.jpg" ></td>
+        </tr>
+    </table>
+	<table width="629" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><table width="629" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="35">&nbsp;</td>
+        <td width="587" align="left" valign="middle"><div align="justify" class="style2">
+          <div align="left" class="style2">{% placeholder location_block%}
+        </div>
+		  <br>		</td>
+        <td width="10">&nbsp;</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>	</td>
+    <td width="250" height="100" valign="bottom">
+	<table width="250" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td height="75" align="center" valign="middle" background="{{ MEDIA_URL }}RCImages/bg03.jpg">
+
+	<img src="{{ MEDIA_URL }}RCImages/calendar.jpg" width="230" >	</td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" background="{{ MEDIA_URL }}RCImages/bg03.jpg">
+    <div style="width: 176p;" align="center"><embed allowscriptaccess="never" src="{{ MEDIA_URL }}Flash/twitter_badge.swf" flashvars="color1=3381589&amp;type=user&amp;id=rc_inter" quality="high" name="twitter_badge" wmode="transparent" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" align="middle" width="200" height="240"><br><a style="font-size: 10px;color: rgb(54, 254, 153);text-decoration: none;" href="http://twitter.com/rc_inter">follow RCIS at http://twitter.com</a></div>
+
+</td>
+  </tr>
+</table>	</td>
+  </tr>
+  <tr>
+    <td height="35" background="{{ MEDIA_URL }}RCImages/bg03.jpg">&nbsp;</td>
+  </tr>
+</table>	</td>
+  </tr>
+   <tr>
+    <td colspan="2" height="10" background="{{ MEDIA_URL }}RCImages/bg02.jpg"></td>
+  </tr>
+   <tr>
+    <td colspan="2" align="left" valign="top" >
+
+	</td>
+    </tr>
+    <tr>
+    <td colspan="2"><table width="880" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="880" align="left" valign="top"></td>
+
+      </tr>
+      <tr>
+        <td align="left" valign="top">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td colspan="2" align="center" valign="top"><img src="{{ MEDIA_URL }}RCImages/RC001_boy_02.jpg" width="880" height="156" ></td>
+          </tr>
+          <tr>
+            <td width="53%" height="87" align="left" valign="top">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="9%">&nbsp;</td>
+    <td width="88%">
+	<br>
+	<img src="{{ MEDIA_URL }}RCImages/individual01.jpg" width="299" height="36" ><br>
+	<p align="left" class="style2">{% placeholder individual_intention_block %}</p></td>
+    <td width="3%">&nbsp;</td>
+  </tr>
+</table>
+
+				</td>
+            <td width="47%" rowspan="2" align="left" valign="top">
+			<br>
+			<img src="{{ MEDIA_URL }}RCImages/international.jpg"   />
+			<br>
+			<table width="89%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="left" valign="middle">	<p align="left" class="style2">{% placeholder international_education_block%}</p>
+	<br>	</td>
+  </tr>
+</table>			</td>
+          </tr>
+          <tr>
+          </tr>
+        </table></td>
+      </tr>
+    </table>
+	</td>
+  </tr>
+</table>
+        
+<!-- begin fun section -->
+<center>
+<div class="push_up section">
+  <div style="float:left;">
+  <img alt="" src="/media/images/driving_kid.png"/>
+  </div>
+
+  <div id="fun_box">
+  <p>
+  <img width="80" height="37" src="/media/RCImages/fun.jpg"><br/>
+  <span class="style40">{% placeholder fun_block %}</span>
+  </p>
+  </div>
+  
+  <div id="fun_box_bg">
+    <div class="light_green" style="height: 12px;"></div>
+    <div style="background: #fff; height: 6px;"></div>
+    <div class="dark_green" style="height: 150px;"></div>
+  </div>
+</div>
+</center>
+<div style="clear:both;"></div>
+<!-- end fun section -->
+
+<center>
+<div class="section">
+        <table width="91%" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td height="60" align="left" valign="middle">
+			<p align="left"><span class="style4">{% placeholder last_block %}</span></p></td>
+          </tr>
+        </table>
+
+<!-- what do you like best about our school section --> 
+  <div>
+    <img src="{{ MEDIA_URL }}RCImages/Front-pagewhat_03.jpg" alt="What do you like best about our school?">
+    <img alt="Personal Attention from Parents of Parth; I love my teacher from Shanon, Kindergarten 2; Teacher! from Nisah Singh, Mother of a Year 6 student; Smallsize, home-like atmosphere from Mother of Sonja (Year 5) and Aidan (K2); Small and cozy from Parents of Vaneesha (Year 5); Our student! from Teacher Joseph (Year 6)" src="{{ MEDIA_URL }}images/what_you_like_about_school.jpg" usemap="#certifications" style="border:0px">
+    <object>
+       <map name="certifications">
+          <area href="http://www.onesqa.or.th" shape="rect" coords="70, 400, 140, 500" target="_blank" alt="International Schools Association of Thailand"/>
+          <area href="http://www.isat.or.th" shape="rect" coords="180, 400, 310, 500" target="_blank" alt="International Schools Association of Thailand"/>
+          <area href="http://www.moe.go.th/English/" shape="rect" coords="350, 400, 425, 500" target="_blank" alt="Thai Ministry of Education"/>
+          <area href="http://www.qcda.gov.uk" shape="rect" coords="460, 400, 590, 500" target="_blank" alt="Qualifications and Curriculum Authority"/>
+          <area href="http://www.acer.edu.au" shape="rect" coords="625, 400, 770, 500" target="_blank" alt="Australian Council for Educational Research"/>
+       </map>
+    </object>
+  </div>
+<!-- end what do you like best about our school section-->
+
+<!-- begin landing footer -->
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" background="{{ MEDIA_URL }}RCImages/Front-page_20.jpg">
+      <tr>
+        <td height="60"><table width="100%" height="60" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td height="21" align="center" valign="bottom">&nbsp;</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle"><span class="style36" >Copyright  &copy; 2006 RC International School. All Right Reserved.
+			    </span>	        		</td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle"><span class="style36" ><span class="style45">Designed By <a href="http://www.geniusgraphic.com" target="_blank">Genius Graphic</a></span> </span></td>
+          </tr>
+        </td></tr>
+        </table>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+
+
+</div>
+</center>
+
+
+{% endblock %}
+
+{% block footer %}{% endblock %}

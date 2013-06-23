@@ -1,0 +1,63 @@
+{% extends "base.html"%}
+{% load cms_tags %}
+
+{% block title %}Other Programmes{% endblock %}
+
+{% block main-content %}
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+        <tbody><tr>
+          <td width="335" valign="top" align="left"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+            <tbody style="line-height:60%"><tr>
+              <td valign="top" height="45" align="left">&nbsp;</td>
+            </tr>
+            <tr>
+              <td valign="top" align="left"><img width="282" height="247" alt="" src="{{ MEDIA_URL }}RCImages/extra/Extra-programmes1_05.jpg"></td>
+            </tr>
+            <tr>
+              <td valign="top" align="left"><img width="282" height="255" alt="" src="{{ MEDIA_URL }}RCImages/extra/Extra-programmes1_08.jpg"></td>
+            </tr>
+            <tr>
+              <td valign="top" align="left"><img width="282" height="297" alt="" src="{{ MEDIA_URL }}RCImages/extra/Extra-programmes1_11.jpg"></td>
+            </tr>
+            <tr>
+              <td valign="top" height="45" align="left">&nbsp;</td>
+            </tr>
+          </tbody></table></td>
+          <td width="544" valign="top" align="left"><br>
+		  <br>  <br>
+
+		  <table width="93%" cellspacing="0" cellpadding="0" border="0">
+  <tbody><tr>
+    <td><img width="205" height"30" alt="Extra programmes" src="{{ MEDIA_URL }}RCImages/extra/extraprogram.jpg">
+		    <br>
+			<span class="text14">{% placeholder extra_programmes_block %}
+            <br>
+            </span><br>
+<img alt="" src="{{ MEDIA_URL }}RCImages/extra/extracurr.jpg">
+    <br>
+    <span class="text14"><br>
+    {% placeholder extra-curricular_activities_block %}
+    <br>
+    <br>
+    <img alt="" src="{{ MEDIA_URL }}RCImages/extra/extrasaturday.jpg">
+    <br>
+    <br>
+    {% placeholder saturday_esl_efl_block   %}
+    <br>
+    <br>
+    <img alt="" src="{{ MEDIA_URL }}RCImages/extra/summer.jpg">
+    <br>
+    <br>
+    {% placeholder summer_school_block %}
+    <br>
+    <br>
+    <img width="238" height="24" alt="" src="{{ MEDIA_URL }}RCImages/extra/english.jpg">
+    <br>
+    <br>
+    {% placeholder english_immersion_programmes_block %}</span></td>
+  </tr>
+</tbody></table>
+</td>
+        </tr>
+      </tbody></table>
+{% endblock %}

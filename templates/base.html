@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <title>RC International School:::{% block title %}Home{% endblock %}</title>
+    <meta name="generator" content="PyScripter">
+    <link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}styles/style.css" />
+    <link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}styles/template_css.css" />
+    <link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}styles/event_css.css" />
+    {% block more_styles%}{% endblock%}
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.js" type="text/javascript"></script>
+<!-- dropdown menu -->
+<script>
+var timeout    = 500;
+var closetimer = 0;
+var ddmenuitem = 0;
+
+function jsddm_open() {  
+   jsddm_canceltimer();
+   jsddm_close();
+   ddmenuitem = $(this).find('ul').css('visibility', 'visible');}
+
+function jsddm_close() {  if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
+
+function jsddm_timer() {  closetimer = window.setTimeout(jsddm_close, timeout);}
+
+function jsddm_canceltimer() {  
+   if(closetimer) {  
+      window.clearTimeout(closetimer);
+      closetimer = null;
+   }
+}
+
+$(document).ready(function()
+{  $('#jsddm > li').bind('mouseover', jsddm_open)
+   $('#jsddm > li').bind('mouseout',  jsddm_timer)});
+
+document.onclick = jsddm_close;
+</script>
+<!-- end dropdown -->
+  </head>
+  <body>
+    <center>
+    <!--header-->
+    <table cellspacing="0" cellpadding="0" width="880" border="0">
+        <tbody>
+            <tr>
+                <td valign="bottom" align="left">
+                {% block banner %}
+                    <a href="/"><img alt="" src="{{ MEDIA_URL }}RCImages/Introducing_01.jpg" border="0"></a><img alt="International, School, Bilingual, Private, International School, Private School, IB Program, IB Programme, British Programme, American Program, British Curriculum, American Curriculum, Tuition, Exams, Examinations, Admission, Caring, Nursery, Kindergarten, Day Care, Primary, Secondary, convenient, Bangkok, Thailand, Wireless Road, Witthayu Road, BTS Skytrain, Educare, boarding facilities, campus, child-centred learning, intellectual, physical, emotional, social, cultural, artistic, moral development, professional teachers, teachers, professional, ISAT, International Schools Association of Thailand, computer laboratory, laboratory, science labs, swimming pools, cafeteria, air-conditioned classrooms, classrooms, gym, gymnasium, facilities, music, art room, snack, meals, dietary needs, van service, foreign language, speaking, reading, listening, writing, ICT, sport, sports day, infants, toddlers, auditory development, Geography, Design Technology, IGCSE, AS level examinations, AS level, vocabulary building, ESL, EFL, summer school. English immersion, scuola, internazinale, esame, ?cole, examen, escuela, internacional, aula, iskola?p?letek, nemzetk?zi, vizsga, egyetem ter?lete, egyetemv?ros, f?iskola ter?lete, oszt?lyterem, el?ad?terem, skola, internationell, granskning, unders?kning, pr?vning, tentamen, Schulen, gemischte Schule f?r M?dchen und Jungen, Schulleiter, Schulleiterinnen, Kinder in Schulalter, Abiturpr?fung, Reifepr?fung, Oberschule, Oberschulen, differenzierte Schuleingangsphase, Privatschulen, Formalpr?fung, koulu, leerschool, skool, internasionaal, internacional, exame, examina??o" src="{{ MEDIA_URL }}RCImages/Introducing_02.jpg" height="144" width="729">
+                {% endblock %}
+                </td>
+            </tr>
+
+            <!--end header -->
+            {% block menu %}
+            <tr>
+                <td valign="top">
+                <div id="topmenu" class="dark_green">
+                    <ul id="jsddm">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="javascript:;">Our programmes</a>
+                            <ul>
+                            <li><a href="/daycare/">Early years</a></li>
+                            <li><a href="/nursery/">Nursery and kindergarten</a></li>
+                            <li><a href="/primary/">Primary years</a></li>
+                            <li><a href="/secondary/">Secondary years</a></li>
+                            <li><a href="/other_programmes/">Other programmes</a></li>
+                            </ul>
+                        <li><a href="javascript:;">About the school</a>
+                            <ul>
+                            <li><a href="/introducing_rc/">Introducing RC</a></li>
+                            <li><a href="/our_facilities/">Our facilities</a></li>
+                            <li><a href="/school_calendar/">School calendar</a></li>
+                            <li><a href="/faq/">FAQ</a></li>
+                            </ul>
+                        </li>
+                        </li>
+                        <li><a href="/admissions/">Admission</a></li>
+                        <li><a href="/school_life/">School life</a></li>
+                        <!--li><a href="/bus_routes/">Bus routes</a></li-->
+                        <li><a href="/contact_us/">Contact us</a></li>
+                        <li><a href="/sitemap/">Sitemap</a></li>
+                    </ul>
+                </div>
+                </td>
+            </tr>
+            {% endblock %}
+
+            <!--content-->
+            <tr>
+                <td valign="top" align="left" >{% block main-content %}content content content{% endblock %}</td>
+            </tr>
+            <!--end content-->
+            {% block footer%}
+            <!--footer-->
+            <tr>
+                <td valign="center" height="75" background="{{ MEDIA_URL }}RCImages/Introducingbottom_03.jpg" align="center"><font face="Microsoft Sans Serif" color="#ffffff" size="1">Copyright &copy; 2006 RC International School. All Right Reserved. </font></td>
+            </tr>
+            {% endblock %}
+            <!--end footer-->
+
+            </tbody>
+    </table>
+</center>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17382327-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+ </body>
+</html>

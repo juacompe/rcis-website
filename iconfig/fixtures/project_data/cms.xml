@@ -1,0 +1,1949 @@
+<?xml version="1.0" encoding="utf-8"?>
+<django-objects version="1.0">
+ <object pk="1" model="cms.placeholder">
+  <field type="CharField" name="slot">rc_international_school_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="2" model="cms.placeholder">
+  <field type="CharField" name="slot">location_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="3" model="cms.placeholder">
+  <field type="CharField" name="slot">individual_intention_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="4" model="cms.placeholder">
+  <field type="CharField" name="slot">international_education_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="5" model="cms.placeholder">
+  <field type="CharField" name="slot">fun_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="6" model="cms.placeholder">
+  <field type="CharField" name="slot">last_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="7" model="cms.placeholder">
+  <field type="CharField" name="slot">school_news_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="8" model="cms.placeholder">
+  <field type="CharField" name="slot">calendar_link</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="9" model="cms.placeholder">
+  <field type="CharField" name="slot">map</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="10" model="cms.placeholder">
+  <field type="CharField" name="slot">contact_us_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="11" model="cms.placeholder">
+  <field type="CharField" name="slot">adress</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="12" model="cms.placeholder">
+  <field type="CharField" name="slot">email</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="13" model="cms.placeholder">
+  <field type="CharField" name="slot">files</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="14" model="cms.placeholder">
+  <field type="CharField" name="slot">admission1</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="15" model="cms.placeholder">
+  <field type="CharField" name="slot">admission2</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="16" model="cms.placeholder">
+  <field type="CharField" name="slot">required_document</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="17" model="cms.placeholder">
+  <field type="CharField" name="slot">fee</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="18" model="cms.placeholder">
+  <field type="CharField" name="slot">bottom_fee_table</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="19" model="cms.placeholder">
+  <field type="CharField" name="slot">remark_desc</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="20" model="cms.placeholder">
+  <field type="CharField" name="slot">note_detail</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="21" model="cms.placeholder">
+  <field type="CharField" name="slot">introducing_rc</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="22" model="cms.placeholder">
+  <field type="CharField" name="slot">mission</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="23" model="cms.placeholder">
+  <field type="CharField" name="slot">download_file</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="24" model="cms.placeholder">
+  <field type="CharField" name="slot">our_teachers_and_students</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="25" model="cms.placeholder">
+  <field type="CharField" name="slot">accreditation_affiliations</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="26" model="cms.placeholder">
+  <field type="CharField" name="slot">does_the_school_provide_meals</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="27" model="cms.placeholder">
+  <field type="CharField" name="slot">is_there_a_school_van_service</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="28" model="cms.placeholder">
+  <field type="CharField" name="slot">does_the_school_offer_other_foreign_language</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="29" model="cms.placeholder">
+  <field type="CharField" name="slot">does_the_school_have_enough_computer</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="30" model="cms.placeholder">
+  <field type="CharField" name="slot">where_are_your_books_purchased_from</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="31" model="cms.placeholder">
+  <field type="CharField" name="slot">rc_international_school_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="32" model="cms.placeholder">
+  <field type="CharField" name="slot">location_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="33" model="cms.placeholder">
+  <field type="CharField" name="slot">school_news_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="34" model="cms.placeholder">
+  <field type="CharField" name="slot">individual_intention_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="35" model="cms.placeholder">
+  <field type="CharField" name="slot">international_education_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="36" model="cms.placeholder">
+  <field type="CharField" name="slot">fun_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="37" model="cms.placeholder">
+  <field type="CharField" name="slot">last_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="38" model="cms.placeholder">
+  <field type="CharField" name="slot">daycare_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="39" model="cms.placeholder">
+  <field type="CharField" name="slot">early_years_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="40" model="cms.placeholder">
+  <field type="CharField" name="slot">primary_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="41" model="cms.placeholder">
+  <field type="CharField" name="slot">secondary_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="42" model="cms.placeholder">
+  <field type="CharField" name="slot">extra_programmes_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="43" model="cms.placeholder">
+  <field type="CharField" name="slot">extra-curricular_activities_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="44" model="cms.placeholder">
+  <field type="CharField" name="slot">saturday_esl_efl_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="45" model="cms.placeholder">
+  <field type="CharField" name="slot">summer_school_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="46" model="cms.placeholder">
+  <field type="CharField" name="slot">english_immersion_programmes_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="47" model="cms.placeholder">
+  <field type="CharField" name="slot">our_activities_and_events_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="48" model="cms.placeholder">
+  <field type="CharField" name="slot">rc_international_school_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="49" model="cms.placeholder">
+  <field type="CharField" name="slot">location_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="50" model="cms.placeholder">
+  <field type="CharField" name="slot">school_news_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="51" model="cms.placeholder">
+  <field type="CharField" name="slot">individual_intention_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="52" model="cms.placeholder">
+  <field type="CharField" name="slot">international_education_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="53" model="cms.placeholder">
+  <field type="CharField" name="slot">fun_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="54" model="cms.placeholder">
+  <field type="CharField" name="slot">last_block</field>
+  <field type="PositiveSmallIntegerField" name="default_width"><None></None></field>
+ </object>
+ <object pk="1" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:39:56</field>
+  <field type="DateTimeField" name="publication_date">2010-06-11 16:40:33</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/landing.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">1</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">1</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="1"></object><object pk="2"></object><object pk="3"></object><object pk="4"></object><object pk="5"></object><object pk="6"></object><object pk="7"></object></field>
+ </object>
+ <object pk="2" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:40:21</field>
+  <field type="DateTimeField" name="publication_date">2010-06-11 16:40:32</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/admissions.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">1</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">2</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="14"></object><object pk="15"></object><object pk="16"></object><object pk="17"></object><object pk="18"></object><object pk="19"></object><object pk="20"></object></field>
+ </object>
+ <object pk="3" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:41:46</field>
+  <field type="DateTimeField" name="publication_date">2010-06-11 16:45:13</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/about.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">1</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">3</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"></field>
+ </object>
+ <object pk="4" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:42:13</field>
+  <field type="DateTimeField" name="publication_date">2010-06-11 16:45:17</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/our_programmes.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">1</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">4</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"></field>
+ </object>
+ <object pk="5" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:43:21</field>
+  <field type="DateTimeField" name="publication_date">2010-06-11 16:45:17</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/daycare.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">0</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">5</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="31"></object><object pk="32"></object><object pk="33"></object><object pk="34"></object><object pk="35"></object><object pk="36"></object><object pk="37"></object><object pk="38"></object></field>
+ </object>
+ <object pk="6" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:43:51</field>
+  <field type="DateTimeField" name="publication_date">2010-06-11 16:45:17</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/bus_routes.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">0</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">6</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="48"></object><object pk="49"></object><object pk="50"></object><object pk="51"></object><object pk="52"></object><object pk="53"></object><object pk="54"></object></field>
+ </object>
+ <object pk="7" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:44:20</field>
+  <field type="DateTimeField" name="publication_date">2010-06-11 16:45:16</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/contact_us.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">1</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">7</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="9"></object><object pk="10"></object><object pk="11"></object><object pk="12"></object></field>
+ </object>
+ <object pk="8" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 00:21:40</field>
+  <field type="DateTimeField" name="publication_date">2010-06-12 00:27:44</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/school_calendar.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">1</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">8</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="8"></object></field>
+ </object>
+ <object pk="9" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 01:32:54</field>
+  <field type="DateTimeField" name="publication_date">2010-06-12 01:34:40</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/download.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">1</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">9</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="13"></object></field>
+ </object>
+ <object pk="10" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 16:38:51</field>
+  <field type="DateTimeField" name="publication_date">2010-06-12 16:39:02</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/introducing_rc.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">1</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">10</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="21"></object><object pk="22"></object><object pk="23"></object><object pk="24"></object><object pk="25"></object></field>
+ </object>
+ <object pk="11" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 00:03:50</field>
+  <field type="DateTimeField" name="publication_date">2010-06-13 00:06:50</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/faq.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">1</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">11</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="26"></object><object pk="27"></object><object pk="28"></object><object pk="29"></object><object pk="30"></object></field>
+ </object>
+ <object pk="12" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 17:43:07</field>
+  <field type="DateTimeField" name="publication_date">2010-06-13 17:47:43</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/our_facilities.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">1</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">12</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"></field>
+ </object>
+ <object pk="13" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 22:06:25</field>
+  <field type="DateTimeField" name="publication_date">2010-06-13 22:07:43</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/nursery.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">0</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">13</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="39"></object></field>
+ </object>
+ <object pk="14" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 22:33:21</field>
+  <field type="DateTimeField" name="publication_date">2010-06-13 22:36:46</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/primary.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">1</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">14</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="40"></object></field>
+ </object>
+ <object pk="15" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 22:48:08</field>
+  <field type="DateTimeField" name="publication_date">2010-06-13 22:51:33</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/secondary.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">1</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">15</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="41"></object></field>
+ </object>
+ <object pk="16" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 23:04:47</field>
+  <field type="DateTimeField" name="publication_date">2010-06-13 23:11:04</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/other_programmes.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">0</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">16</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="42"></object><object pk="43"></object><object pk="44"></object><object pk="45"></object><object pk="46"></object></field>
+ </object>
+ <object pk="17" model="cms.page">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.page" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="created_by">natty</field>
+  <field type="CharField" name="changed_by">natty</field>
+  <field to="cms.page" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 23:32:09</field>
+  <field type="DateTimeField" name="publication_date">2010-06-13 23:32:29</field>
+  <field type="DateTimeField" name="publication_end_date"><None></None></field>
+  <field type="BooleanField" name="in_navigation">False</field>
+  <field type="BooleanField" name="soft_root">False</field>
+  <field type="CharField" name="reverse_id"><None></None></field>
+  <field type="CharField" name="navigation_extenders"></field>
+  <field type="BooleanField" name="published">True</field>
+  <field type="CharField" name="template">cms/school_life.html</field>
+  <field to="sites.site" name="site" rel="ManyToOneRel">1</field>
+  <field type="SmallIntegerField" name="moderator_state">0</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">17</field>
+  <field type="BooleanField" name="login_required">False</field>
+  <field type="BooleanField" name="menu_login_required">False</field>
+  <field to="cms.placeholder" name="placeholders" rel="ManyToManyRel"><object pk="47"></object></field>
+ </object>
+ <object pk="1" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">1</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 22:25:06</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">1</field>
+ </object>
+ <object pk="2" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">2</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 22:26:56</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">2</field>
+ </object>
+ <object pk="3" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">3</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 22:28:45</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">3</field>
+ </object>
+ <object pk="4" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">4</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 22:29:58</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">4</field>
+ </object>
+ <object pk="5" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">5</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 22:32:10</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">5</field>
+ </object>
+ <object pk="6" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">6</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 22:35:40</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">6</field>
+ </object>
+ <object pk="7" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">7</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 23:08:37</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">7</field>
+ </object>
+ <object pk="8" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">8</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">GoogleMapPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 00:32:14</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">8</field>
+ </object>
+ <object pk="9" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">10</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 01:01:56</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">9</field>
+ </object>
+ <object pk="10" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">11</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 01:04:43</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">10</field>
+ </object>
+ <object pk="11" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">12</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">PicturePlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 01:07:24</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">11</field>
+ </object>
+ <object pk="12" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">13</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">FilePlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 01:34:51</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">12</field>
+ </object>
+ <object pk="13" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">13</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">2</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">FilePlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 01:35:40</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">13</field>
+ </object>
+ <object pk="14" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">13</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 01:37:56</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">14</field>
+ </object>
+ <object pk="15" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">14</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 01:43:29</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">15</field>
+ </object>
+ <object pk="16" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">15</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 01:45:15</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">8</field>
+  <field type="PositiveIntegerField" name="tree_id">16</field>
+ </object>
+ <object pk="18" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">16</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 01:56:43</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">18</field>
+ </object>
+ <object pk="19" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">17</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 02:06:46</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">4</field>
+  <field type="PositiveIntegerField" name="tree_id">19</field>
+ </object>
+ <object pk="20" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">18</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 02:14:11</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">20</field>
+ </object>
+ <object pk="21" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">19</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 02:19:11</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">21</field>
+ </object>
+ <object pk="22" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">20</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 02:23:34</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">22</field>
+ </object>
+ <object pk="23" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">21</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 16:44:27</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">23</field>
+ </object>
+ <object pk="24" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">22</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 21:47:10</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">24</field>
+ </object>
+ <object pk="25" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">23</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 21:50:42</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">4</field>
+  <field type="PositiveIntegerField" name="tree_id">25</field>
+ </object>
+ <object pk="26" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">23</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel">25</field>
+  <field type="PositiveSmallIntegerField" name="position"><None></None></field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">FilePlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 21:51:29</field>
+  <field type="PositiveIntegerField" name="level">1</field>
+  <field type="PositiveIntegerField" name="lft">2</field>
+  <field type="PositiveIntegerField" name="rght">3</field>
+  <field type="PositiveIntegerField" name="tree_id">25</field>
+ </object>
+ <object pk="27" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">24</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 21:56:42</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">26</field>
+ </object>
+ <object pk="28" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">25</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 22:01:50</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">4</field>
+  <field type="PositiveIntegerField" name="tree_id">27</field>
+ </object>
+ <object pk="29" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">26</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 00:37:15</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">28</field>
+ </object>
+ <object pk="30" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">27</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 00:39:37</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">29</field>
+ </object>
+ <object pk="31" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">28</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 00:42:59</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">30</field>
+ </object>
+ <object pk="32" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">29</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 00:43:39</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">31</field>
+ </object>
+ <object pk="33" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">30</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 00:44:08</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">32</field>
+ </object>
+ <object pk="34" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">38</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 21:48:48</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">33</field>
+ </object>
+ <object pk="35" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">39</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 22:06:37</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">4</field>
+  <field type="PositiveIntegerField" name="tree_id">34</field>
+ </object>
+ <object pk="36" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">40</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 22:33:33</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">35</field>
+ </object>
+ <object pk="37" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">41</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 22:50:28</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">36</field>
+ </object>
+ <object pk="38" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">42</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 23:05:00</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">37</field>
+ </object>
+ <object pk="39" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">43</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 23:07:36</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">38</field>
+ </object>
+ <object pk="40" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">43</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">FilePlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 23:08:33</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">39</field>
+ </object>
+ <object pk="41" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">44</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 23:13:02</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">40</field>
+ </object>
+ <object pk="42" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">45</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 23:15:42</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">41</field>
+ </object>
+ <object pk="43" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">46</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 23:17:39</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">42</field>
+ </object>
+ <object pk="44" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">47</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">0</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 23:37:37</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">43</field>
+ </object>
+ <object pk="45" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">47</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">2</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">YouTubePlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 23:57:20</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">44</field>
+ </object>
+ <object pk="46" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">47</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">TextPlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-14 00:16:44</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">45</field>
+ </object>
+ <object pk="47" model="cms.cmsplugin">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.cmsplugin" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field to="cms.placeholder" name="placeholder" rel="ManyToOneRel">47</field>
+  <field to="cms.cmsplugin" name="parent" rel="ManyToOneRel"><None></None></field>
+  <field type="PositiveSmallIntegerField" name="position">3</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="plugin_type">YouTubePlugin</field>
+  <field type="DateTimeField" name="creation_date">2010-06-14 00:17:20</field>
+  <field type="PositiveIntegerField" name="level">0</field>
+  <field type="PositiveIntegerField" name="lft">1</field>
+  <field type="PositiveIntegerField" name="rght">2</field>
+  <field type="PositiveIntegerField" name="tree_id">46</field>
+ </object>
+ <object pk="1" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">Index</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">index</field>
+  <field type="CharField" name="path">index</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">1</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:39:56</field>
+ </object>
+ <object pk="2" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">Admissions</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">admissions</field>
+  <field type="CharField" name="path">admissions</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">2</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:40:21</field>
+ </object>
+ <object pk="3" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">About the school</field>
+  <field type="CharField" name="menu_title"><None></None></field>
+  <field type="SlugField" name="slug">about</field>
+  <field type="CharField" name="path">about</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"><None></None></field>
+  <field type="CharField" name="redirect"><None></None></field>
+  <field type="TextField" name="meta_description"><None></None></field>
+  <field type="CharField" name="meta_keywords"><None></None></field>
+  <field type="CharField" name="page_title"><None></None></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">3</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:41:46</field>
+ </object>
+ <object pk="4" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">Our programmes</field>
+  <field type="CharField" name="menu_title"><None></None></field>
+  <field type="SlugField" name="slug">our_programmes</field>
+  <field type="CharField" name="path">our_programmes</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"><None></None></field>
+  <field type="CharField" name="redirect"><None></None></field>
+  <field type="TextField" name="meta_description"><None></None></field>
+  <field type="CharField" name="meta_keywords"><None></None></field>
+  <field type="CharField" name="page_title"><None></None></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">4</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:42:13</field>
+ </object>
+ <object pk="5" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">Day Care Centre</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">daycare</field>
+  <field type="CharField" name="path">daycare</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">5</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:43:21</field>
+ </object>
+ <object pk="6" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">School routes</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">school_routes</field>
+  <field type="CharField" name="path">school_routes</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">6</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:43:51</field>
+ </object>
+ <object pk="7" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">Contact us</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">contact_us</field>
+  <field type="CharField" name="path">contact_us</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">7</field>
+  <field type="DateTimeField" name="creation_date">2010-06-11 16:44:20</field>
+ </object>
+ <object pk="8" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">School calendar</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">school_calendar</field>
+  <field type="CharField" name="path">school_calendar</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">8</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 00:21:40</field>
+ </object>
+ <object pk="9" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">Download</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">download</field>
+  <field type="CharField" name="path">download</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">9</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 01:32:54</field>
+ </object>
+ <object pk="10" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">Introducing RC</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">introducing_rc</field>
+  <field type="CharField" name="path">introducing_rc</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">10</field>
+  <field type="DateTimeField" name="creation_date">2010-06-12 16:38:51</field>
+ </object>
+ <object pk="11" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">FAQ</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">faq</field>
+  <field type="CharField" name="path">faq</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">11</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 00:03:50</field>
+ </object>
+ <object pk="12" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">Our facilities</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">our_facilities</field>
+  <field type="CharField" name="path">our_facilities</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">12</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 17:43:07</field>
+ </object>
+ <object pk="13" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">Nursery</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">nursery</field>
+  <field type="CharField" name="path">nursery</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">13</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 22:06:25</field>
+ </object>
+ <object pk="14" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">Primary years</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">primary</field>
+  <field type="CharField" name="path">primary</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">14</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 22:33:21</field>
+ </object>
+ <object pk="15" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">Secondary years</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">secondary</field>
+  <field type="CharField" name="path">secondary</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">15</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 22:48:08</field>
+ </object>
+ <object pk="16" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">Other Programmes</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">other_programmes</field>
+  <field type="CharField" name="path">other_programmes</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">16</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 23:04:47</field>
+ </object>
+ <object pk="17" model="cms.title">
+  <field type="BooleanField" name="publisher_is_draft">True</field>
+  <field to="cms.title" name="publisher_public" rel="OneToOneRel"><None></None></field>
+  <field type="SmallIntegerField" name="publisher_state">1</field>
+  <field type="CharField" name="language">en</field>
+  <field type="CharField" name="title">School life</field>
+  <field type="CharField" name="menu_title"></field>
+  <field type="SlugField" name="slug">school_life</field>
+  <field type="CharField" name="path">school_life</field>
+  <field type="BooleanField" name="has_url_overwrite">False</field>
+  <field type="CharField" name="application_urls"></field>
+  <field type="CharField" name="redirect"></field>
+  <field type="TextField" name="meta_description"></field>
+  <field type="CharField" name="meta_keywords"></field>
+  <field type="CharField" name="page_title"></field>
+  <field to="cms.page" name="page" rel="ManyToOneRel">17</field>
+  <field type="DateTimeField" name="creation_date">2010-06-13 23:32:10</field>
+ </object>
+ <object pk="1" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">1</field>
+  <field type="TextField" name="body">and Ruam  Rudee Learning &amp;amp; Day Care Centres are conveniently located in the heart of Bangkok. We are one of  the fastest growing international schools in Thailand offering quality education  based on the British Curriculum for children ages 6 weeks to 13 years old.</field>
+ </object>
+ <object pk="2" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">2</field>
+  <field type="TextField" name="body">We all know how important distance is in Bangkok. One kilometre sometimes means a long time in a traffic jam! Located in the very centre of Bangkok close to Siam Square and Wireless (Witthayu) Road, our school is easily accessible by BTS Skytrain. Simply get off at Ploenchit station, and either take a motorcycle or a 3-minute walk to Ruam Rudee Soi 1. You can also take a motorcycle.</field>
+ </object>
+ <object pk="3" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">3</field>
+  <field type="TextField" name="body">We are a small school with no more than 15 students per class in Early Years and between 5 and 22 in Primary and Secondary Years. Our small class size allows individual attention and early intervention if required.</field>
+ </object>
+ <object pk="4" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">4</field>
+  <field type="TextField" name="body">We follow the British Curriculum also known as the National Curriculum for England and Wales. All classes are conducted in English and the subjects are the same as in the schools in the United Kingdom.</field>
+ </object>
+ <object pk="5" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">5</field>
+  <field type="TextField" name="body">Education can be fun and children learn best when they
+enjoy what they are doing. This is why we make sure
+there is a healthy balance between work and play.
+You will be amazed to see how happy our students are!</field>
+ </object>
+ <object pk="6" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">6</field>
+  <field type="TextField" name="body">And all this for a price you can afford!&lt;br /&gt;
+              &lt;span class="style2"&gt;Actually we are so sure you will like it, that we invite you to come and let your child stay in our school for one day &lt;/span&gt;&lt;span class="style4"&gt;free of charge! &lt;/span&gt;&lt;span class="style2"&gt;This way you will have all the information you will need to make the right decision.&lt;/span&gt;</field>
+ </object>
+ <object pk="7" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">7</field>
+  <field type="TextField" name="body">under construction!!!!</field>
+ </object>
+ <object pk="9" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">9</field>
+  <field type="TextField" name="body">RC International School and Ruam Rudee Learning &amp;amp; Day  Care Centres are located in the very centre of Bangkok close to Siam Square and  Wireless (Witthayu) Road. Our school is easily accessible by BTS Skytrain.  Simply get-off at Ploenchit station and walk to Ruam Rudee Soi 1 (3 min) or  take a motorcycle taxi.</field>
+ </object>
+ <object pk="10" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">10</field>
+  <field type="TextField" name="body">Address:&lt;span class="text15b"&gt; 25/3-4 Ruamrudee Soi 1,
+			&lt;br /&gt;
+			Ploenchit Road, Bangkok, Thailand 10330 &lt;br /&gt;
+	        &lt;/span&gt;&lt;span class="text15bb"&gt;Tel :&lt;/span&gt;&lt;span class="text15b"&gt;&amp;#160; (66)  02-254-4380; 02-255-4507;
+	     &lt;br /&gt; &amp;#160; &amp;#160;&amp;#160;&amp;#160;&amp;#160;&amp;#160; &amp;#160;&amp;#160; &amp;#160;&amp;#160;&amp;#160;
+		 &amp;#160;&amp;#160;
+		 02-254-4380 &lt;br /&gt;
+	     &lt;/span&gt;&lt;span class="text15bb"&gt;Fax : &lt;/span&gt;&lt;span class="text15b"&gt;(66) 02-650-9747&lt;br /&gt;
+	     &lt;/span&gt;&lt;span class="text15bb"&gt;&lt;/span&gt;</field>
+ </object>
+ <object pk="14" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">14</field>
+  <field type="TextField" name="body">&lt;br /&gt;</field>
+ </object>
+ <object pk="15" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">15</field>
+  <field type="TextField" name="body">RC International School and Ruam Rudee Learning Centre have a year-round admission policy. Since RCIS and RLC follow the British Curriculum, the students are placed in year groups by age, the cut-off date being the 31st of August. For example, all pupils in Year 1 will have reached their fifth birthday by the 1st of September.</field>
+ </object>
+ <object pk="16" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">16</field>
+  <field type="TextField" name="body">Please call us at (66) 02-254-4380 to arrange an appointment. Once you are here, we will be happy to answer all your questions and show you around the school. If you are not convinced after talking to us, we invite you to let your child attend classes for &lt;span class="text14b"&gt;one day for free&lt;/span&gt;, so you can find out how your child feels here. The next step in the admission process will be for you to pick up the registration form (you can also download it &lt;a href="../media/cms_page_media/9/Admission%20Form%20RCIS.pdf"&gt;here&lt;/a&gt; ) fill it out, and on your next visit bring the required documents and set a date for the placement test, if needed. Once your child has been accepted, you will need to pay the registration fee to reserve a seat. Outstanding fees will need to be paid before the start of the school year.</field>
+ </object>
+ <object pk="18" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">18</field>
+  <field type="TextField" name="body">&lt;ol&gt;&lt;li&gt;Two recent passport size coloured photographs of the student&lt;/li&gt;&lt;li&gt;Two photos of father and mother&lt;/li&gt;&lt;li&gt;Copy of birth certificate of student&lt;/li&gt;&lt;li&gt;Copy of Passport of parents and student (foreigners) &lt;/li&gt;&lt;li&gt;Vaccination / Recent medical records&lt;/li&gt;&lt;li&gt;
+Copy of academic records
+ (for transferred students)&lt;/li&gt;&lt;/ol&gt;</field>
+ </object>
+ <object pk="19" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">19</field>
+  <field type="TextField" name="body">&lt;tr style="color: white;"&gt;
+&lt;th rowspan="2" style="font-size: 18px;" align="center"&gt;Fees&lt;/th&gt;
+&lt;th colspan="3" align="center"&gt;PRE-NURSERY, NURSERY, KINDERGARTEN 1&lt;/th&gt;
+&lt;th align="center"&gt;KINDERGARTEN 2 (RECEPTION YEAR)&lt;/th&gt;
+&lt;th rowspan="2" align="center"&gt;YEAR 1&lt;/th&gt;
+&lt;th rowspan="2" align="center"&gt;YEAR 2-6&lt;/th&gt;
+&lt;th rowspan="2" align="center"&gt;YEAR 7-8&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th align="center"&gt;3-Day Programme&lt;/th&gt;
+&lt;th align="center"&gt;Half-Day Programme&lt;/th&gt;
+&lt;th align="center"&gt;Full-Day Programme&lt;/th&gt;
+&lt;th align="center"&gt;Full-Day Programme&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Registration&lt;sup&gt;1&lt;/sup&gt;&lt;/th&gt;
+&lt;td align="right"&gt;30,000.00&lt;/td&gt;
+&lt;td align="right"&gt;30,000.00&lt;/td&gt;
+&lt;td align="right"&gt;30,000.00&lt;/td&gt;
+&lt;td align="right"&gt;30,000.00&lt;/td&gt;
+&lt;td align="right"&gt;30,000.00&lt;/td&gt;
+&lt;td align="right"&gt;50,000.00&lt;/td&gt;
+&lt;td align="right"&gt;50,000.00&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Tuition&lt;sup&gt;2&lt;/sup&gt;&lt;/th&gt;
+&lt;td align="right"&gt;28,000.00&lt;/td&gt;
+&lt;td align="right"&gt;33,000.00&lt;/td&gt;
+&lt;td align="right"&gt;38,000.00&lt;/td&gt;
+&lt;td align="right"&gt;40,000.00&lt;/td&gt;
+&lt;td align="right"&gt;45,000.00&lt;/td&gt;
+&lt;td align="right"&gt;58,000.00&lt;/td&gt;
+&lt;td align="right"&gt;60,000.00&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;Instructional Material&lt;sup&gt;3&lt;/sup&gt;&lt;/th&gt;
+&lt;td align="right"&gt;2,000.00&lt;/td&gt;
+&lt;td align="right"&gt;2,000.00&lt;/td&gt;
+&lt;td align="right"&gt;2,000.00&lt;/td&gt;
+&lt;td align="right"&gt;3,000.00&lt;/td&gt;
+&lt;td align="right"&gt;4,000.00&lt;/td&gt;
+&lt;td align="right"&gt;12,000.00&lt;/td&gt;
+&lt;td align="right"&gt;12,000.00&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;th&gt;TOTAL Initial payment&lt;/th&gt;
+&lt;td align="right"&gt;60,000.00&lt;/td&gt;
+&lt;td align="right"&gt;65,000.00&lt;/td&gt;
+&lt;td align="right"&gt;70,000.00&lt;/td&gt;
+&lt;td align="right"&gt;73,000.00&lt;/td&gt;
+&lt;td align="right"&gt;79,000.00&lt;/td&gt;
+&lt;td align="right"&gt;120,000.00&lt;/td&gt;
+&lt;td align="right"&gt;122,000.00&lt;/td&gt;&lt;/tr&gt;</field>
+ </object>
+ <object pk="20" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">20</field>
+  <field type="TextField" name="body">The student is to be assessed upon admission to determine whether there is a need for an EAL (English as&amp;#160;Additional Language) class.</field>
+ </object>
+ <object pk="21" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">21</field>
+  <field type="TextField" name="body">&lt;ol&gt;&lt;li&gt;Paid once at time of admission, non - refundable&lt;/li&gt;&lt;li&gt;Paid per term&lt;/li&gt;&lt;li&gt;
+Includes arts and crafts supplies, school notebooks and workbooks, paid annually&lt;/li&gt;&lt;/ol&gt;</field>
+ </object>
+ <object pk="22" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">22</field>
+  <field type="TextField" name="body">&lt;ol&gt;&lt;li&gt;2.5% discount off tuition fee will be given to parents paying in advance for the entire year. &lt;/li&gt;&lt;li&gt;10,000 Baht off registration fee for brothers or sisters of current students. &lt;/li&gt;&lt;li&gt;School Fees are inclusive of insurance for each child not exceeding 3,000 Baht at one time. &lt;/li&gt;&lt;li&gt;No refund or reductions will be made in any fees for reasons of illness or temporary absence from school. &lt;/li&gt;&lt;li&gt;A late fee charge of 100.00 Baht per day will be charged after due date for each term. &lt;/li&gt;&lt;li&gt;All fees are subject to change without notice.&lt;/li&gt;&lt;/ol&gt;</field>
+ </object>
+ <object pk="23" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">23</field>
+  <field type="TextField" name="body">The history of our school starts in 1992 with the purchase of a small kindergarten called Educare. At that time, there were about 50 students. The name was changed to Ruam Rudee Learning Centre to reflect the new ownership. Our student base quickly grew to over a hundred in 2001 when we opened Primary and Secondary Years. This division was named RC International School. In 2004, a new building was constructed and a swimming pool was added to accommodate the growing number of students. The latest addition to our family is Ruam Rudee Day Care Centre which welcomes children 6 weeks to 18 months old.
+                      &lt;br /&gt;
+                      &lt;br /&gt;
+We now have about 150 students and continue to attract more every year. With more students coming in, and QCA (Qualifications and Curriculum Authority) and ISA (International Schools' Assessment) exams planned for 2008, our future looks bright. </field>
+ </object>
+ <object pk="24" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">24</field>
+  <field type="TextField" name="body">We believe that for children to become fully functional and active participants of the community, they must be developed holistically. Our mission is to help develop young learners' full potential by providing the highest quality education through child-centred learning in a relaxed, secure and caring environment. Following the British Curriculum with an international perspective, our mission is central to our philosophy of development of the whole child. Our focus is the learners' intellectual, physical, emotional, social, cultural, artistic and moral development.</field>
+ </object>
+ <object pk="25" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">25</field>
+  <field type="TextField" name="body">&lt;p&gt;&lt;img src="/media/cms/images/file_icons/pdf.gif" alt="File - RC brochure" title="File - RC brochure" id="plugin_obj_26" /&gt;Click to download an electronic copy of our brochure&lt;/p&gt;</field>
+ </object>
+ <object pk="27" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">27</field>
+  <field type="TextField" name="body">All the teachers employed at our school are qualified professionals &lt;br /&gt;
+                   with appropriate degrees and years of experience. Most of our teachers have &lt;br /&gt;
+                   worked here for many years.
+                   &lt;p class="textss14"&gt;We currently have approximately 150 students from 24 different countries. We ensure that our students develop an awareness and appreciation of cultural differences. Students of all &lt;br /&gt;nationalities and religions are welcome and treated equally in our school.&lt;/p&gt;</field>
+ </object>
+ <object pk="28" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">28</field>
+  <field type="TextField" name="body">RC International School Ruam Rudee Learning &amp;amp; Day Care Centre have been awarded a licence from the Ministry of Education of Thailand to operate as an International School. This licence is the first step towards full accreditation from an international organisation. We are also a member of the International Schools Association of Thailand (&lt;a&gt;ISAT&lt;/a&gt;)</field>
+ </object>
+ <object pk="29" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">29</field>
+  <field type="TextField" name="body"> Yes, we provide two snacks and a lunch daily. Snack consists of milk with sandwiches,  cake or fruit. For lunch we offer Thai and Western cuisine. For students with special dietary needs we offer Halal, Jain and vegetarian dishes. The price of meals is included in the tuition fee.</field>
+ </object>
+ <object pk="30" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">30</field>
+  <field type="TextField" name="body">Yes, the school provides a van service under special arrangement with reasonable fees computed by distance. There is always a teacher assistant in the van to take care of the students.</field>
+ </object>
+ <object pk="31" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">31</field>
+  <field type="TextField" name="body">Yes, currently the school offers Mandarin Chinese and Thai Language. Upon reaching Year 4, students are formally introduced in the study of Modern Foreign Language as part of the curriculum whilst Thai Language is a requirement of the Thai Ministry of Education and is integrated in the curriculum starting from Kindergarten 2. Thai is also offered as a separate study from the curriculum and classes are usually held after school hours or on Saturdays.</field>
+ </object>
+ <object pk="32" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">32</field>
+  <field type="TextField" name="body">Yes, as ICT is one of the core curriculum subjects, the school ensures that every student has access to a computer. The ICT classroom is also equipped with a high-resolution projector. </field>
+ </object>
+ <object pk="33" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">33</field>
+  <field type="TextField" name="body">Although RCIS and RLC follow the British Curriculum, as approved by the Thai Ministry of Education, we do not purchase books exclusively from the U.K. Our philosophy in purchasing books is guided by the quality of learning we provide for our students. Therefore, our books are purchased not only from the United Kingdom but also from the U.S.A., Australia and Canada and are of the highest quality.</field>
+ </object>
+ <object pk="34" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">34</field>
+  <field type="TextField" name="body">Ruam Rudee Day Care Centre accepts infants ages 6 weeks to 18 months old. It is located just across the street from RC International School. It offers a programme for infants and toddlers, focusing on auditory development and play activities for physical, social, emotional and language development. As a parent, you can be sure that your child is in a
+            nurturing, secure and loving environment.
+                      &lt;br /&gt;
+                      &lt;br /&gt;
+            Open from Monday to Friday.
+              &lt;br /&gt;
+              &lt;br /&gt;
+            For more information please contact: Admission/Registrar's office at:
+              &lt;br /&gt;
+              &lt;br /&gt;
+            Tel:0-2254 4380, 0-2255 4507 Fax: 0-2650-9747  &lt;br /&gt;
+            Email:info@rcinternationalschool.com  Website:www.rcinternationalschool.com</field>
+ </object>
+ <object pk="35" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">35</field>
+  <field type="TextField" name="body">Ruam Rudee Learning Centre, the RC International School's Early Years Department offers a well-rounded programme for the Foundation Stage which encompasses Nursery (ages 1.5 to 3 years old), Kindergarten 1 and Kindergarten 2 (ages 3+ to 5). The activities include singing, drama, water play, circle time and arts.
+                    &lt;br /&gt;
+                    &lt;br /&gt;
+                The RCIS follows the British Curriculum modified to meet the needs of international students from Key Stage 1 to 3. For children aged 3 to 5 the school follows the guidelines set in the "Curriculum guidance for the foundation stage" by the Qualifications and Curriculum Authority from the United Kingdom. The Foundation Stage of the curriculum consists of six areas:
+                &lt;br /&gt;
+                &lt;br /&gt;
+                - Personal, Social and Emotional Development&lt;br /&gt;
+                - Communication Language and Literacy&lt;br /&gt;
+                - Mathematical Development&lt;br /&gt;
+                - Knowledge and Understanding of the World&lt;br /&gt;
+                - Physical Development&lt;br /&gt;
+                - Creative Development&lt;br /&gt;
+                &lt;br /&gt;
+
+                These distinct areas have a set of related early learning goals and are designed to meet the diverse needs of the children. They prepare pupils for the National Curriculum for pupils aged 5 to 14.
+
+                &lt;br /&gt;
+                &lt;br /&gt;
+                Three programmes are available in Nursery and Kindergarten:
+                &lt;br /&gt;
+                &lt;br /&gt;
+                Full-day (Mon-Fri 8:30 am - 2:30 pm)&lt;br /&gt;
+                Half-day (Mon-Fri 8:30 am - 12:00 pm)&lt;br /&gt;
+                3-day programme (Any 3 days, 8:30 am - 2:30 pm)&lt;br /&gt;
+                &lt;br /&gt;
+                &lt;a href="/admissions/"&gt; Admission Information &amp;amp; Fees&lt;/a&gt; </field>
+ </object>
+ <object pk="36" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">36</field>
+  <field type="TextField" name="body">RCIS follows the British Curriculum for primary years modified to meet the needs of international students. The Primary Years programme consists of Key Stage 1 for Years 1 and 2 (ages 5 - 7) and Key Stage 2 for Years 3 to 6 (ages 7 to 11).
+            &lt;br /&gt;
+            &lt;br /&gt;
+The curriculum provides a structured and assessed education for all students. Core areas of study are English, Mathematics and Science. Information Communication Technology (ICT), Physical Education, History, Geography, Design Technology (DT), Art, Music, Values (Citizenship), and Thai Language and Culture complete the curriculum. Modern Foreign Language is first introduced at Year 4.
+    &lt;br /&gt;
+    &lt;br /&gt;
+Starting from the year 2008, our students in Years 2 to 6 will take part in international examinations under the supervision of QCA (Qualifications and Curriculum Authority) and ACER (Australian Council for Educational Research). Results of these exams will give us an idea of our students' level as compared with students from other schools both in Thailand and abroad.
+    &lt;br /&gt;
+    &lt;br /&gt;
+The Primary School day starts with the school assembly at 8:00 am. Snack is served at 9:30 am and lunch at noon. The students return home after second snack at 2:20 pm unless participating in after-school activities.
+    &lt;br /&gt;
+    &lt;br /&gt;
+   &lt;a href="/admissions/"&gt; Go to Admission Information &amp;amp; Fees &lt;/a&gt;     &lt;br /&gt;
+   &lt;a href="/other_programmes/"&gt; Go to Extra Programmes   &lt;/a&gt;</field>
+ </object>
+ <object pk="37" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">37</field>
+  <field type="TextField" name="body">Secondary Years consist of Key Stages 3 and 4 of the British Curriculum modified to meet the needs of international students. Key Stage 3 is taught from Year 7 to 9 (ages 11 to 14) and Key Stage 4 from Year 10 to 11 (ages 14 to 16).
+                 &lt;br /&gt;
+                 &lt;br /&gt;
+            Key Stage 3 teaching consists of the same areas of study encountered at Key Stage 2. At the end of Year 9, students retain the core subjects of English, Mathematics and Science. Additional subjects are then selected by the students to complete their individual programme of study. This programme will form the basis of their studies for Key Stage 4 where they will be prepared for the IGCSE (International General Certificate in Secondary Education) examination at the end of Year 11.
+            &lt;br /&gt;
+            &lt;br /&gt;
+            Following the IGCSE students will select 3 or 4 subjects for Advanced Level Study. This two-year course prepares students for AS level examinations (at the end of Year 12) and A Level examinations (at the end of Year 13).
+            &lt;br /&gt;
+            &lt;br /&gt;
+            Currently RCIS offers Key Stage 3 for Year 7.
+            &lt;br /&gt;
+            &lt;br /&gt;
+            Starting from the year 2008, our students in Year 7 will take part in international examinations under the supervision of QCA (Qualifications and Curriculum Authority) and ACER (Australian Council for Educational Research). Results of these exams will give us an idea of our students' level as compared with students from other schools both in Thailand and abroad.
+            &lt;br /&gt;
+            &lt;br /&gt;
+            The Secondary School day starts at 8:00 am with the school assembly. Snack is served around 9:30 am and lunch at noon. The students go home after second snack at 2:20 pm or stay for after-school activities.     &lt;br /&gt;
+            &lt;br /&gt;
+
+               &lt;a href="/admission/"&gt; Go to Admission Information &amp;amp; Fees &lt;/a&gt;     &lt;br /&gt;
+               &lt;a href="/other_programmes/"&gt; Go to Extra Programmes   &lt;/a&gt;</field>
+ </object>
+ <object pk="38" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">38</field>
+  <field type="TextField" name="body">Our school offers various extra-curricular activities, as well as Saturday English classes and Summer School.</field>
+ </object>
+ <object pk="39" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">39</field>
+  <field type="TextField" name="body">We offer after-school activities such as swimming, computer, piano, Thai language, ballet, gymnastics, individual tutoring and others. The schedule and fees differ from year to year depending on the number of students participating. Please click to download the current timetable.</field>
+ </object>
+ <object pk="41" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">41</field>
+  <field type="TextField" name="body">Our ESL/EFL Classes are held on Saturdays from 9.00 a.m. to 12.00 noon. This programme is open to all who wish to enhance their English Language Skills. Focusing on the basic skills of Listening, Speaking, Reading and Writing, as well as vocabulary building, our classes offer a well-balanced approach to English language acquisition.
+&lt;br /&gt;
+    &lt;br /&gt;
+Classes are small to ensure effective and efficient learning. Our teacher/student ratio is kept to a maximum of 1/10. Classes are manned only by experienced ESL Teachers employing the most current teaching methodologies to produce effective, efficient and result-oriented language learning.</field>
+ </object>
+ <object pk="42" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">42</field>
+  <field type="TextField" name="body">Summer Classes are held in July and August, as well as during Songkran holiday break in April. Pupils coming from other International and Thai schools are welcome. Classes start at 9 am and finish at 2 pm. Various fun and exciting activities ranging from drama to sports are the main course, with an emphasis on English conversation. Also included are off-campus activities such as visits to  parks, zoos and museums. Snacks and lunch are provided. Van service is available upon request.</field>
+ </object>
+ <object pk="43" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">43</field>
+  <field type="TextField" name="body">We offer a chance for students from Thai schools to join us during their summer holiday in October and March-April-May. They will be able to attend the same classes and activities as our regular students and experience international education! This is a great way to improve the English level of your child!	</field>
+ </object>
+ <object pk="44" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">44</field>
+  <field type="TextField" name="body">We provide many interesting, educational and exciting activities for
+children, teachers and parents. Here is a sampling of some annual events at our school. </field>
+ </object>
+ <object pk="46" model="text.text">
+  <field to="cms.cmsplugin" name="cmsplugin_ptr" rel="OneToOneRel">46</field>
+  <field type="TextField" name="body">&lt;p&gt;&lt;strong&gt;Also recently 2 of our students (Yuri Suga and Miku Suga) participated in a singing contest in Japan. You can look at their recitals below.&lt;/strong&gt;&lt;/p&gt;&lt;br /&gt;</field>
+ </object>
+</django-objects>

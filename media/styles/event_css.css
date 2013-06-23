@@ -1,0 +1,123 @@
+.cal_table {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; BORDER-LEFT: #000000 1px solid; BORDER-BOTTOM: #000000 1px solid
+}
+.cal_td_daysnames {
+	BORDER-BOTTOM: #000000 1px solid
+}
+.cal_daysnames {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.cal_td_daysoutofmonth {
+	BACKGROUND-COLOR: #b0c4de
+}
+.cal_daysoutofmonth {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; LINE-HEIGHT: normal; FONT-STYLE: normal; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+.cal_td_today {
+	BACKGROUND-COLOR: #e9b4a1
+}
+.cal_td_daysnoevents {
+	BACKGROUND-COLOR: #ffdead
+}
+A.cal_daylink:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.cal_daylink:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.cal_daylink:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: red; FONT-STYLE: normal; FONT-FAMILY: Arial; TEXT-DECORATION: none
+}
+A.cal_titlelink:link {
+	FONT-SIZE: 10px; COLOR: #990000; FONT-FAMILY: Verdana
+}
+A.cal_titlelink:visited {
+	FONT-SIZE: 10px; COLOR: blue; FONT-FAMILY: Verdana
+}
+A.cal_titlelink:hover {
+	FONT-SIZE: 10px; COLOR: black; FONT-FAMILY: Verdana
+}
+A.ev_link_cat:link {
+	FONT-SIZE: 12px; COLOR: gray; FONT-FAMILY: Verdana
+}
+A.ev_link_cat:visited {
+	FONT-SIZE: 12px; COLOR: gray; FONT-FAMILY: Verdana
+}
+A.ev_link_cat:hover {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Verdana
+}
+A.ev_link_row:link {
+	FONT-SIZE: 12px; COLOR: gray; FONT-FAMILY: Verdana
+}
+A.ev_link_row:visited {
+	FONT-SIZE: 12px; COLOR: gray; FONT-FAMILY: Verdana
+}
+A.ev_link_row:hover {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Verdana
+}
+A.ev_link_weekday:link {
+	FONT-SIZE: 12px; COLOR: gray; FONT-FAMILY: Verdana
+}
+A.ev_link_weekday:visited {
+	FONT-SIZE: 12px; COLOR: gray; FONT-FAMILY: Verdana
+}
+A.ev_link_weekday:hover {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: Verdana
+}
+.ev_fieldset {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-STYLE: normal; FONT-FAMILY: Arial
+}
+.ev_table {
+	BORDER-RIGHT: black 1px solid; BORDER-LEFT: black 1px solid; BORDER-BOTTOM: black 1px solid
+}
+.ev_td_right {
+	BORDER-TOP: #000000 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.ev_td_left {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 12px; VERTICAL-ALIGN: top; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Arial; BACKGROUND-COLOR: #c5d5e5; TEXT-ALIGN: left
+}
+.ev_td_today {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Arial; BACKGROUND-COLOR: #e9b4a1
+}
+.ontab {
+	BORDER-RIGHT: #808080 1px outset; BORDER-TOP: #ff9900 1px outset; FONT-WEIGHT: bold; FONT-SIZE: 10px; BORDER-LEFT: #ff9900 1px outset; CURSOR: hand; BORDER-BOTTOM: #d5d5d5 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: buttonshadow; TEXT-ALIGN: center
+}
+.offtab {
+	BORDER-RIGHT: #e0e0e0 1px outset; BORDER-TOP: #e0e0e0 1px outset; FONT-WEIGHT: normal; FONT-SIZE: 10px; BORDER-LEFT: #e0e0e0 1px outset; CURSOR: hand; BORDER-BOTTOM: #d5d5d5 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #eeeeee; TEXT-ALIGN: center
+}
+.tabpadding {
+	BORDER-BOTTOM: #777777 0px solid
+}
+.tabheading {
+	BORDER-RIGHT: #777777 1px solid; FONT-SIZE: 10pt; BORDER-LEFT: #777777 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffae00; TEXT-ALIGN: left
+}
+.tabcontent {
+	BORDER-RIGHT: #777777 1px solid; BORDER-TOP: #777777 1px solid; FONT-SIZE: 16pt; BORDER-LEFT: #777777 1px solid; BORDER-BOTTOM: #777777 1px solid; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-ALIGN: left
+}
+.pagetext {
+	DISPLAY: none; VISIBILITY: hidden; POSITION: relative; TOP: 0px
+}
+.frm_td_bydays {
+	FONT-SIZE: 12px; COLOR: black; BACKGROUND-COLOR: #fff8dc
+}
+.frm_td_byweeks {
+	FONT-SIZE: 12px; COLOR: black; BACKGROUND-COLOR: #fff0f5
+}
+.frm_td_bymonth {
+	FONT-SIZE: 12px; COLOR: black; BACKGROUND-COLOR: #fdf5e6
+}
+.frm_td_byyear {
+	FONT-SIZE: 12px; COLOR: black; BACKGROUND-COLOR: #f0f8ff
+}
+A.nav_bar_link:link {
+	FONT-SIZE: 10px; COLOR: green; FONT-FAMILY: Verdana
+}
+A.nav_bar_link:visited {
+	FONT-SIZE: 10px; COLOR: teal; FONT-FAMILY: Verdana
+}
+A.nav_bar_link:hover {
+	FONT-SIZE: 10px; COLOR: lime; FONT-FAMILY: Verdana
+}
+.nav_bar_cell {
+	BACKGROUND-COLOR: #ececec
+}

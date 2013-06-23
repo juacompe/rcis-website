@@ -1,0 +1,102 @@
+{% extends "base.html"%}
+{% load cms_tags %}
+
+{% block title %}Admission{% endblock %}
+{% block more_styles %}<link rel="stylesheet" type="text/css" href="{{ MEDIA_URL }}styles/admission.css" />{% endblock %}
+
+{% block main-content %}
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td width="42">&nbsp;</td>
+<td width="795">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td width="6%">&nbsp;</td>
+<td width="87%" valign="top" align="left"><br>
+<p><img width="143" height="31" src="{{ MEDIA_URL }}RCImages/admissions.jpg" alt="International, School, Bilingual, Private, International School, Private School, IB Program, IB Programme, British Programme, American Program, British Curriculum, American Curriculum, Tuition, Exams, Examinations, Admission, Caring, Nursery, Kindergarten, Day Care, Primary, Secondary, convenient, Bangkok, Thailand, Wireless Road, Witthayu Road, BTS Skytrain, Educare, boarding facilities, campus, child-centred learning, intellectual, physical, emotional, social, cultural, artistic, moral development, professional teachers, teachers, professional, ISAT, International Schools Association of Thailand, computer laboratory, laboratory, science labs, swimming pools, cafeteria, air-conditioned classrooms, classrooms, gym, gymnasium, facilities, music, art room, snack, meals, dietary needs, van service, foreign language, speaking, reading, listening, writing, ICT, sport, sports day, infants, toddlers, auditory development, Geography, Design Technology, IGCSE, AS level examinations, AS level, vocabulary building, ESL, EFL, summer school. English immersion, scuola, internazinale, esame, ?cole, examen, escuela, internacional, aula, iskola?p?letek, nemzetk?zi, vizsga, egyetem ter?lete, egyetemv?ros, f?iskola ter?lete, oszt?lyterem, el?ad?terem, skola, internationell, granskning, unders?kning, pr?vning, tentamen, Schulen, gemischte Schule f?r M?dchen und Jungen, Schulleiter, Schulleiterinnen, Kinder in Schulalter, Abiturpr?fung, Reifepr?fung, Oberschule, Oberschulen, differenzierte Schuleingangsphase, Privatschulen, Formalpr?fung, koulu, leerschool, skool, internasionaal, internacional, exame, examina??o"></p>
+<p class="text14">{% placeholder admission1%}</p>
+<p class="text14">{% placeholder admission2%}</p><span class="text14">Required documents: </span>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td width="24" valign="center" align="center" class="text14">   </td>
+<td width="676" valign="center" align="left" class="text14">{%placeholder required_document%}</td></tr>
+
+</tbody></table><br>
+<br></td>
+<td width="7%">&nbsp;</td></tr></tbody></table></td>
+<td width="43">&nbsp;</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td>
+<table id="fees">
+    <tbody>
+            <div id="fees_header_img"><img src="{{ MEDIA_URL }}RCImages/school-fees-header.png" alt=""></div>
+            <div id="fees_header_big_year">{% placeholder fees_header_year %}</div>
+            <div id=fees_header_info>{% placeholder fees_header_info %}</div>
+
+        <tr id="fees_header" style="color: white;">
+            <th rowspan="2">Fees</th>
+            <th class="fees_header_pre" colspan="3">PRE-NURSERY, NURSERY, KINDERGARTEN 1</th>
+            <th class="fees_header_reception_year">KINDERGARTEN 2 (RECEPTION YEAR)</th>
+            <th class="fees_header_year" rowspan="2">YEAR 1</th>
+            <th class="fees_header_year" rowspan="2">YEAR 2-6</th>
+            <th class="fees_header_year" rowspan="2">YEAR 7</th></tr>
+        <tr id="fees_subheader">
+            <th>3-Day Programme</th>
+            <th>Half-Day Programme</th>
+            <th>Full-Day Programme</th>
+            <th>Full-Day Programme</th>
+        </tr>
+        {% placeholder fees_table %}
+    </tbody>
+</table><!-- fees ends here --></td></tr>
+<tr>
+<td>&nbsp;</td></tr></tbody></table></td>
+<td>&nbsp;</td></tr>
+<tr>
+<td>&nbsp;</td>
+<td>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td width="4%">&nbsp;</td>
+<td width="92%" valign="top" align="left">
+<p class="text14"><strong>{%placeholder bottom_fee_table %}</strong><br>
+<br>{%placeholder remark_desc%}<br>
+<br><br>
+</p>
+<p class="text14"><img width="484" height="30" src="{{ MEDIA_URL }}RCImages/Admisstions/otherschool.jpg" alt="International, School, Bilingual, Private, International School, Private School, IB Program, IB Programme, British Programme, American Program, British Curriculum, American Curriculum, Tuition, Exams, Examinations, Admission, Caring, Nursery, Kindergarten, Day Care, Primary, Secondary, convenient, Bangkok, Thailand, Wireless Road, Witthayu Road, BTS Skytrain, Educare, boarding facilities, campus, child-centred learning, intellectual, physical, emotional, social, cultural, artistic, moral development, professional teachers, teachers, professional, ISAT, International Schools Association of Thailand, computer laboratory, laboratory, science labs, swimming pools, cafeteria, air-conditioned classrooms, classrooms, gym, gymnasium, facilities, music, art room, snack, meals, dietary needs, van service, foreign language, speaking, reading, listening, writing, ICT, sport, sports day, infants, toddlers, auditory development, Geography, Design Technology, IGCSE, AS level examinations, AS level, vocabulary building, ESL, EFL, summer school. English immersion, scuola, internazinale, esame, ?cole, examen, escuela, internacional, aula, iskola?p?letek, nemzetk?zi, vizsga, egyetem ter?lete, egyetemv?ros, f?iskola ter?lete, oszt?lyterem, el?ad?terem, skola, internationell, granskning, unders?kning, pr?vning, tentamen, Schulen, gemischte Schule f?r M?dchen und Jungen, Schulleiter, Schulleiterinnen, Kinder in Schulalter, Abiturpr?fung, Reifepr?fung, Oberschule, Oberschulen, differenzierte Schuleingangsphase, Privatschulen, Formalpr?fung, koulu, leerschool, skool, internasionaal, internacional, exame, examina??o">&nbsp;</p>
+
+<table id="other_fees">
+<tbody>
+    {% placeholder other_school_fees %}
+</tbody>
+</table>
+
+<table id="school_uniforms" border=1 cellspacing="0px">
+<tbody>
+    {% placeholder school_uniforms %}
+</tbody>
+</table>
+
+<p class="text14"><br>
+<span class="text14b">NOTE:</span><br>
+</p>
+<p class="text14">
+</p><table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td width="24" valign="center" align="center" class="text14">   </td>
+<td width="676" valign="center" align="left" class="text14">{%placeholder note_detail%}</td></tr></tbody></table>
+<p class="text14"><br>
+<br></p></td>
+<td width="4%">&nbsp;</td></tr></tbody></table></td>
+<td>&nbsp;</td></tr></tbody></table>
+{% endblock %}

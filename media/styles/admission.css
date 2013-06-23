@@ -1,0 +1,93 @@
+#fees{
+    width: 791px;
+    cellpadding: 0px;
+    border: 0px;
+    font-size: 12px;
+    font-family: Arial;
+}
+
+#fees_header_img{
+    text-align: center;
+}
+#fees_header th{
+    background-color: #006634;
+    text-align: center;
+    font-size: 12px;
+}
+#fees_subheader th{
+    background-color: #69cc01;
+    text-align: center;
+}
+.fees_header_pre{
+    width: 25%;
+}
+.fees_header_reception_year{
+    width: 20%;
+}
+.fees_header_year{
+    width: 10%;
+}
+tr.price td{
+    text-align: right;
+}
+.yellow th,.yellow td{
+    background-color: #ffcc67;
+}
+.white{
+    background-color: #FFFFFF;
+}
+.green{
+    background-color: rgb(153, 204, 102);
+}
+
+.total_row th, .total_row td{
+    background-color: #69cc01;
+}
+#other_fees{
+    width: 100%;
+    cellspacing: 0px;
+    cellpadding: 0px;
+    border: 0px;
+    font-weight: bold;
+}
+#other_fees tr td div{
+    float: right;
+    margin-right: 10px;
+}
+#other_fees tr td{
+    vertical-align: top;
+    text-align: left;
+    width: 711px;
+    height: 17px;
+
+}
+#school_uniforms{
+    text-align: center;
+    width: 100%;
+}
+#school_uniforms tr{
+
+}
+#school_uniforms tr td{
+    
+}
+#school_uniforms tr th{
+    background-color: lightgray;
+}
+#fees_header_info{
+    margin-left: 313px;
+    margin-top: -113px;
+    position: absolute;
+
+}
+#fees_header_info div{
+    font-size: 12px;
+    color: white;
+}
+#fees_header_big_year{
+    color: yellow;
+    font-size: 19px;
+    margin-left: 573px;
+    margin-top: -141px;
+    position: absolute;
+}
